@@ -12,7 +12,7 @@ authors:
 - Breno W S R Carvalho
 - Rodrigo Neumann Barros Ferreira
 - Anaximandro Souza
-- João Pedro Gandarela de Souza
+- me
 - Gabriela de Valnisio
 - Carmen Paz
 - Renato Cerqueira
