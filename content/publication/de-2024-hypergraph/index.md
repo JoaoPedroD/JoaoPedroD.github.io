@@ -1,7 +1,7 @@
 ---
 title: Hypergraph neural networks with logic clauses
 authors:
-- João Pedro Gandarela de Souza
+- me
 - Gerson Zaverucha
 - Artur S d’Avila Garcez
 date: '2024-01-01'
