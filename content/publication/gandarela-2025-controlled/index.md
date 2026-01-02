@@ -1,7 +1,7 @@
 ---
 title: Controlled Agentic Planning & Reasoning for Mechanism Synthesis
 authors:
-- João Pedro Gandarela
+- me
 - Thiago Rios
 - Stefan Menzel
 - André Freitas
