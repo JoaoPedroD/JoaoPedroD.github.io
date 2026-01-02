@@ -4,7 +4,7 @@ title: Dataset of Reticular Materials' Syntheses Automatically Created from PDFs
 authors:
 - Viviane T Silva
 - Rodrigo Neumann Barros Ferreira
-- João Pedro Gandarela de Souza
+- me
 - Ronaldo Giro
 - Geisa Lima
 - Carmen Nilda Mena Paz
