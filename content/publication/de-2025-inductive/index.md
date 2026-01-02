@@ -1,7 +1,7 @@
 ---
 title: 'Inductive Learning of Logical Theories with LLMs: A Expressivity-graded Analysis'
 authors:
-- João Pedro Gandarela de Souza
+- me
 - Danilo Carvalho
 - André Freitas
 date: '2025-01-01'
