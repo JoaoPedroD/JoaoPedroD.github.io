@@ -1,0 +1,29 @@
+<style>
+  /* Constrain the News section to a scrollable pane (vertical only) so the
+     page doesn't grow unbounded as more short updates are added. Scoped to
+     #news so it doesn't affect Publications or other collection blocks. */
+  section#news .w-fit {
+    width: 100%;
+    max-width: 48rem;
+  }
+  section#news .space-y-16 {
+    max-height: 420px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 0.75rem;
+    scrollbar-gutter: stable;
+    width: 100%;
+    max-width: 100%;
+  }
+  section#news .space-y-16 > article {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+  section#news .space-y-16::-webkit-scrollbar {
+    width: 8px;
+  }
+  section#news .space-y-16::-webkit-scrollbar-thumb {
+    background-color: rgba(120, 120, 120, 0.35);
+    border-radius: 4px;
+  }
+</style>
