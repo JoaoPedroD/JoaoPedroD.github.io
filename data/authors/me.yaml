@@ -42,8 +42,8 @@ links:
   #   url: https://x.com/example
   # - icon: brands/github
   #   url: https://github.com/example
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/example/
+  - icon: brands/linkedin
+    url: https://br.linkedin.com/in/jo%C3%A3o-pedro-gandarela-49bab2119
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=UCrBCroAAAAJ
   - icon: academicons/dblp
